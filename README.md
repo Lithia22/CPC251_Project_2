@@ -1,7 +1,7 @@
 # Cervical Cancer Prediction - Part 2
 
 - **Project Goal:** Build and compare models to assess cervical cancer risk.
-- **Models Used:** Neural Network (MLP) and Support Vector Machine (SVM).
+- **Models Used:** `Neural Network` and `Support Vector Machine`.
 - **Target:** Predict cervical cancer risk using the imbalanced `Biopsy` variable.
 
 ## Prerequisites
